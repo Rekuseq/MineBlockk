@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MineBlock:jar">
+    <output-path>$USER_HOME$/Desktop/siup</output-path>
+    <root id="archive" name="MineBlock.jar">
+      <element id="module-output" name="MineBlock" />
+    </root>
+  </artifact>
+</component>

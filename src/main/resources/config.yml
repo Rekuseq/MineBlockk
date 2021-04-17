@@ -1,0 +1,37 @@
+blockName: "&6Mine Block"
+craftingInventoryTitle: "&e&lCrafting"
+
+# WYMIARY KOPANIA
+# $ -> MineBlock
+# x -> Ilosc blokow na osi X od postawionego Mine Blocka
+# z -> Ilosc blokow na osi Z od postawionego Mine Blocka
+#    ^
+#  x |
+#    $ ---->
+#        z
+glebokosc: 10
+x: 5
+z: 5
+
+
+delay: 1
+period: 20
+
+block: "sponge"
+
+blocklore:
+  - "&fPostaw blok aby wykopac pod nim bloki"
+
+#CRAFTING
+# 123
+# 456
+# 789
+1: "stone"
+2: "stone"
+3: "stone"
+4: "stone"
+5: "stone"
+6: "stone"
+7: "stone"
+8: "stone"
+9: "stone"

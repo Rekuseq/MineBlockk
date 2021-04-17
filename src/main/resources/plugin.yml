@@ -1,0 +1,8 @@
+main: me.rekuseq.MineBlock.MineBlock
+author: Rekuseq
+name: MineBlock
+version: 1.0
+
+commands:
+  crafting:
+    aliases: [mineblock]
